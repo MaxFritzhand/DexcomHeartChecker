@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7926767E-6F36-43D1-B384-FA8AE329BF37"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06757FCD-AEE9-495D-9C79-A22C732B5B99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0D6136E-800F-4A96-9FA0-9E21C43C553D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0D6136E-800F-4A96-9FA0-9E21C43C553D - e5e185d81c7fb8dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Double&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "F0D6136E-800F-4A96-9FA0-9E21C43C553D - e5e185d81c7fb8dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Double&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "F0D6136E-800F-4A96-9FA0-9E21C43C553D - 219edc3ce9f4f0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Int&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "F0D6136E-800F-4A96-9FA0-9E21C43C553D - 219edc3ce9f4f0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Int&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A349D8B-D1B2-4140-B186-608086812802"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "421C5825-0F4C-401B-8304-694CA3B4B534"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "421C5825-0F4C-401B-8304-694CA3B4B534 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+               <Location
+                  uuid = "421C5825-0F4C-401B-8304-694CA3B4B534 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5228">
+               </Location>
+               <Location
+                  uuid = "421C5825-0F4C-401B-8304-694CA3B4B534 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5236">
+               </Location>
+               <Location
+                  uuid = "421C5825-0F4C-401B-8304-694CA3B4B534 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27E9F978-11BF-4FBA-9312-7C8298F95FE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27E9F978-11BF-4FBA-9312-7C8298F95FE4 - fcbc120691d08c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "27E9F978-11BF-4FBA-9312-7C8298F95FE4 - fcbc120691d08c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "4508">
+               </Location>
+               <Location
+                  uuid = "27E9F978-11BF-4FBA-9312-7C8298F95FE4 - fcbc120691d08c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "4516">
+               </Location>
+               <Location
+                  uuid = "27E9F978-11BF-4FBA-9312-7C8298F95FE4 - fcbc120691d08c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "4408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4CE8614-ABD3-4448-B9D2-285A1B9BEF11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4CE8614-ABD3-4448-B9D2-285A1B9BEF11 - fcbc120691d0930e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5228">
+               </Location>
+               <Location
+                  uuid = "D4CE8614-ABD3-4448-B9D2-285A1B9BEF11 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5236">
+               </Location>
+               <Location
+                  uuid = "D4CE8614-ABD3-4448-B9D2-285A1B9BEF11 - fcbc120691d0930e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "5128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3023F8F2-2502-4A9D-9E47-4C8036D18435"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3023F8F2-2502-4A9D-9E47-4C8036D18435 - fcbc120691d093c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3700">
+               </Location>
+               <Location
+                  uuid = "3023F8F2-2502-4A9D-9E47-4C8036D18435 - fcbc120691d093c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3708">
+               </Location>
+               <Location
+                  uuid = "3023F8F2-2502-4A9D-9E47-4C8036D18435 - fcbc120691d093c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartChecker Watch App/DexcomAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getGlucoseData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "6820">
+               </Location>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "8164">
+               </Location>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "6828">
+               </Location>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "9016">
+               </Location>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "6720">
+               </Location>
+               <Location
+                  uuid = "F5C89FCF-8FE2-4D15-ACD9-62266F02DABE - fcbc120691d08c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static HeartChecker_Watch_App.DexcomAPI.getGlucoseData(completion: (Swift.Optional&lt;Swift.Array&lt;HeartChecker_Watch_App.GlucoseData&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeartChecker Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Extreme%20SSD/HeartChecker/HeartChecker%20Watch%20App/DexcomAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "8876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
